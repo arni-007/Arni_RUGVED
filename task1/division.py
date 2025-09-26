@@ -5,13 +5,12 @@ def divide_string(s, n):
     
     parts = [s[i:i+n] for i in range(0, len(s), n)]
     
-    # Check if all parts are the same
+
     if all(part == parts[0] for part in parts):
         print("Divided parts:", ', '.join(parts))
     else:
         print("Error: Parts are not identical.")
 
-# Example usage
 string = input("Enter the string: ")
 n = int(input("Enter the length of each part: "))
 divide_string(string, n)

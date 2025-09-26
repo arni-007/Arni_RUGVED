@@ -7,7 +7,6 @@ def is_anagram(str1, str2):
     else:
         return False
 
-# Example usage
 s1 = input("Enter first string: ")
 s2 = input("Enter second string: ")
 

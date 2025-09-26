@@ -9,6 +9,6 @@ def sort_and_count(text):
         print(char, ":", sorted_str.count(char))
 
 
-# Example usage
+
 user_input = input("Enter a string: ")
 sort_and_count(user_input)
