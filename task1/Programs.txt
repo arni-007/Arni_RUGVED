@@ -1,6 +1,6 @@
 Tasks to be executed
 
-1.Define a function named “triple_and” that takes three parameters and returns True only if they are all True and False otherwise
+1. Define a function named “triple_and” that takes three parameters and returns True only if they are all True an False otherwise
 2. Write a python program to sort a string alphabetically and print the count of each character.
 3. Write a python program to check if given number is a hill number
 4. Write a python function to perform selection sort on a given string.
