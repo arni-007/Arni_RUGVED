@@ -1,15 +1,12 @@
 1. Count the total number of matches conducted in 2008. 
-2. Find the cities where the maximum and minimum number of matches were 
-conducted. 
+2. Find the cities where the maximum and minimum number of matches were conducted. 
 3. Find total count of matches city-wise. 
 4. Tally the toss decisions each team has taken. 
 5. Count the total number of normal and tied matches. 
 6. Find the teams where the result was a tie. 
-7. Find the team which won the match by the highest and lowest number of 
-runs. 
+7. Find the team which won the match by the highest and lowest number of runs. 
 8. Calculate mean, median and standard deviation of ‘win_by_runs’ 
-9. Find the venue where the team won by the highest and lowest number of 
-runs. 
+9. Find the venue where the team won by the highest and lowest number of runs. 
 10. Find the players who have won ‘Player of the Match’ more than 3 times. 
 11. Find all deliveries where the batsman scored a six. 
 12. Compute the average runs scored in matches in all the venues. 
